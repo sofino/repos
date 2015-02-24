@@ -8,6 +8,7 @@
 	<?
 
            $posd  = 3;
+           $dfdsjg = d;
 			// $patch = $_SERVER['DOCUMENT_ROOT']."/data/obd/";
 			// $handle = opendir($patch);
 			// while(($file = readdir($handle))) {
