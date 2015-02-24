@@ -1,0 +1,25 @@
+#tel , #name{
+	border: 2px #000 solid;
+	margin: 2px;
+	padding: 0;
+}
+
+#btn{
+	height: 530px;
+	width: 530px;
+	background-color: #A00;
+	margin: 90px;
+	box-shadow: 7px 7px 10px rgba(0,0,0,0.6);
+	transition: .5s;
+	border: none;
+}
+
+#btn:hover{
+	cursor: pointer;
+	border-radius: 50%;
+	height: 490px;
+}
+#btn:active{
+	box-shadow: 3px 3px 10px rgba(0,0,0,0.6);
+	
+};
